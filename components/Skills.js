@@ -53,7 +53,7 @@ const skills = [
 
 export default function Skills() {
   return (
-    <div className="flex items-center justify-center md:justify-start flex-wrap py-10">
+    <div className="flex items-center justify-start flex-wrap py-10">
       {skills.map((item, index) => {
         return (
           <div
