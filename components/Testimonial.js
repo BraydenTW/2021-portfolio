@@ -4,9 +4,9 @@ export default function Testimonial() {
   return (
     <div className="w-full bg-bluegray-light py-20 px-5 flex flex-col items-center justify-center flex-shrink-0">
       <p className="text-xl md:text-3xl text-center max-w-4xl">
-        “Brayden is quick to iterate on feedback and has a knack for
+        "Brayden is quick to iterate on feedback and has a knack for
         understanding the genre you expect in design. I would highly recommend
-        him to anyone who is looking to build a great website.”
+        him to anyone who is looking to build a great website."
       </p>
       <div className="mt-10 flex flex-col-reverse md:flex-row items-center justify-center font-display text-bluegray flex-shrink-0">
         <div className="relative overflow-hidden rounded-full w-12 h-12 mt-4 md:mr-4 shadow-xl shadow-bluegray">
