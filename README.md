@@ -20,3 +20,7 @@ $ yarn dev
 - [Next.js](https://nextjs.org/)
 - [Vercel](https://vercel.com)
 - [Tailwind CSS](https://tailwindcss.com/)
+
+---
+
+<a href="https://www.buymeacoffee.com/braydenw" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="210" ></a>
