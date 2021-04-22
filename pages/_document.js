@@ -34,6 +34,7 @@ class MyDocument extends Document {
             name="msapplication-config"
             content="/static/favicons/browserconfig.xml"
           />
+          <title>BraydenTW - Frontend Developer and Designer</title>
           <meta name="theme-color" content="#ffffff" />
         </Head>
         <body>
