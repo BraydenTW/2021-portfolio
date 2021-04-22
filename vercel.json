@@ -1,0 +1,11 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "headers": [],
+  "redirects": [
+    {
+      "source": "/support",
+      "destination": "https://buymeacoffee.com/braydenw"
+    }
+  ]
+}
