@@ -58,7 +58,7 @@ export default function Nav() {
             <a className="mr-5" href="https://dribbble.com/braydentw">
               <DribbbleIcon color="#9499a2" size={18} />
             </a>
-            <a href="mailto:brayden45.dev@gmail.com">
+            <a href="mailto:me@braydentw.com">
               <MailIcon color="#9499a2" size={18} />
             </a>
           </div>
