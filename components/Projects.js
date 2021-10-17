@@ -17,8 +17,8 @@ const projects = [
     title: 'Emoji Search',
     description: 'A way to search and copy+paste emojis built with React!',
     tools: ['React', 'JavaScript', 'CSS', 'JSON', 'Git', 'GH Pages'],
-    link: 'https://braydentw.github.io/react-emoji-search',
-    linkDisplay: 'braydentw.github.io',
+    link: 'https://react-emoji-search.braydentw.vercel.app/',
+    linkDisplay: 'react-emoji-search.braydentw.vercel.app',
     imgUrl: '/static/images/projects/emoji-search.png'
   },
   {
